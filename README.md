@@ -6,7 +6,7 @@ Feel free to use the table and the diagrams for any purposes, including commerci
 
 You can cite this repository as follows:
 
-`Roman Plus, Scientific progress towards cryonics, (2018), GitHub repository, https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics `
+`R.Plus, Scientific progress towards cryonics, (2018), GitHub repository, https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics `
 
 # Some stats    
 
