@@ -2,7 +2,7 @@
 
 Below is a list of 70+ scientific papers that are related to cryonics. 
 
-Feel free to use the table and the diagrams for any purposes, including commercial ones. Everything in this repository is released under a permissive [MIT](https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics/blob/master/LICENSE) license. 
+Feel free to use the table and the diagrams for any purposes, including commercial ones. Everything in this repository is released into the [Public Domain](https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics/blob/master/LICENSE). 
 
 You can cite this repository as follows:
 
