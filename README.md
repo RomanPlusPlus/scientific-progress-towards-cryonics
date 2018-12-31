@@ -1,5 +1,7 @@
 # Scientific progress towards cryonics
 
+Below is a list of 70+ scientific papers that are related to cryonics.     
+
 |	Year	|	Taxon	|	tissue, organ or whole body?	|	Approx. mass, kg	|	Lowest temperature (°C) after which a successful reanimation was achieved	|	Healthy brain activity / behavior after reanimation?	|	Reference	|	Useful link	|
 |	-------------	|	-------------	|	-------------	|	-------------	|	-------------	|	-------------	|	-------------	|	-------------	|
 |	1876	|	Guinea pig (C. porcellus)	|	whole	|	1E+00	|	18	|	Unknown	|	Bernard, 1876	|	https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1959.tb49209.x	|
