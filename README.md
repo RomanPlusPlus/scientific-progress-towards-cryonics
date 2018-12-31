@@ -4,6 +4,7 @@ Below is a list of 70+ scientific papers that are related to cryonics.
 
 Some stats: 
 
+![biggestMass2.png](biggestMass2.png)
 
 # The papers
 
