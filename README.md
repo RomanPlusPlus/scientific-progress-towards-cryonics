@@ -13,6 +13,21 @@ You can cite this repository as follows:
 ![biggestMass2.png](biggestMass2.png)
 ![TemperatureVSmass.png](TemperatureVSmass.png)
 
+# The lowest successful cryopreservation temperatures by a group (as of 2018)
+
+By taxon (only adult animals counted; whole body cryopreservation):
+
+Taxon	|	Lowest temperature (°C)	|	Species (where applicable)	|
+-------------	|	-------------	|	-------------	|
+Animals (Animalia)	|	-272	|	Tardigrades (Tardigrada)	|
+Vertebrates (Vertebrata)	|	-32	|	Salamander S. keyserlingii	|
+Mammals (Mammalia)	|	-7	|	Leisler's bat (N. leisleri)	|
+Boreoeutheria	|	-7	|	Leisler's bat (N. leisleri)	|
+Euarchontoglires	|	-5	|	Golden hamster (M. auratus) 	|
+Primates	|	10	|	Humans (Homo sapiens)	|
+Humans (Homo sapiens) 	|	10	|	Humans (Homo sapiens)	|
+
+
 # The papers
 
 |	Year	|	Taxon	|	tissue, organ or whole body?	|	Approx. mass, kg	|	Lowest temperature (°C) after which a successful reanimation was achieved	|	Healthy brain activity / behavior after reanimation?	|	Reference	|	Useful link	|
