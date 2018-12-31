@@ -1,6 +1,11 @@
 # Scientific progress towards cryonics
 
-Below is a list of 70+ scientific papers that are related to cryonics.     
+Below is a list of 70+ scientific papers that are related to cryonics. 
+
+Some stats: 
+
+
+# The papers
 
 |	Year	|	Taxon	|	tissue, organ or whole body?	|	Approx. mass, kg	|	Lowest temperature (°C) after which a successful reanimation was achieved	|	Healthy brain activity / behavior after reanimation?	|	Reference	|	Useful link	|
 |	-------------	|	-------------	|	-------------	|	-------------	|	-------------	|	-------------	|	-------------	|	-------------	|
