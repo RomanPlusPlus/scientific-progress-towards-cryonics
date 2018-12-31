@@ -8,10 +8,12 @@ You can cite this repository as follows:
 
 `Roman Plus, Scientific progress towards cryonics, (2018), GitHub repository, https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics `
 
-# Some stats 
+# Some stats    
 
 ![biggestMass2.png](biggestMass2.png)
 ![TemperatureVSmass.png](TemperatureVSmass.png)
+
+Note: we define "successful cryopreservation" as a cryopreservation, after which a reanimation was achieved. If it's a whole body preservation, the organism should be brought back to life and be able to survive for at least 1 week. If it's an organ, it should be able to perform its main function after the defreeze (ideally, confirmed by a successful transplantation).   
 
 # The lowest successful cryopreservation temperatures by a group (as of 2018)
 
@@ -36,8 +38,6 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 0,1 – 0,99	|	-5	|	Golden hamster (M. auratus) 	|
 1 – 9,99	|	0	|	Marmots (Marmota)	|
 10 – 99,9	|	7	|	Domestic dog (C. lupus f.)	|
-
-
 
 # The papers
 
