@@ -15,7 +15,7 @@ You can cite this repository as follows:
 
 Note: we define "successful cryopreservation" as a cryopreservation, after which a reanimation was achieved. If it's a whole body preservation, the organism should be brought back to life and be able to survive for at least 1 week. If it's an organ, it should be able to perform its main function after the defreeze (ideally, confirmed by a successful transplantation).   
 
-# The lowest successful cryopreservation temperatures by a group (as of 2018)
+# The lowest successful-cryopreservation temperatures by a group (as of 2018)
 
 By taxon (only adult animals counted; whole body cryopreservation):
 
