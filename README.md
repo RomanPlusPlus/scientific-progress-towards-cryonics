@@ -27,6 +27,17 @@ Euarchontoglires	|	-5	|	Golden hamster (M. auratus) 	|
 Primates	|	10	|	Humans (Homo sapiens)	|
 Humans (Homo sapiens) 	|	10	|	Humans (Homo sapiens)	|
 
+By mass (only adult animals counted; whole body cryopreservation):
+
+Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
+-------------	|	-------------	|	-------------	|
+<0,01	|	-272	|	Tardigrades (Tardigrada)	|
+0,01 – 0,099	|	-32	|	Salamander S. keyserlingii	|
+0,1 – 0,99	|	-5	|	Golden hamster (M. auratus) 	|
+1 – 9,99	|	0	|	Marmots (Marmota)	|
+10 – 99,9	|	7	|	Domestic dog (C. lupus f.)	|
+
+
 
 # The papers
 
