@@ -19,6 +19,19 @@ Note: we define "successful cryopreservation" as a cryopreservation, after which
 
 # The lowest successful-cryopreservation temperatures by a group (as of 2018)
 
+By specimen (humans only):
+
+Specimen	|	Lowest temperature (°C)	|	Details
+-------------	|	-------------	|	-------------
+cells (any type)	|	-196	|	oocytes
+brain cells	|	-80	|	from a 9-14 week abortus
+brain tissue	|	-70	|	from adults
+embryos	|	-196	|	developed into healthy humans
+whole body: children (accidental hibernation)	|	16	|	human: Erika Nordby
+whole body: adults (accidental hibernation)	|	14	|	human: Anna Bågenholm
+whole body: adults (controlled hibernation)	|	10	|	human: trauma patients
+
+
 By taxon (only adult animals counted; whole body cryopreservation):
 
 Taxon	|	Lowest temperature (°C)	|	Species (where applicable)	|
