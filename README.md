@@ -128,7 +128,7 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 |	2006	|	Domestic pig (S. domesticus)	|	whole	|	5E+01	|	10	|	Yes (no abnormalities observed)	|	Alam et al, 2006, 2008	|	https://www.ncbi.nlm.nih.gov/pubmed/16456447	|
 |	2007	|	Human: aortic surgery patients	|	whole	|	7E+01	|	17	|	Yes (no abnormalities observed)	|	Hayashida et al, 2007	|	https://www.ncbi.nlm.nih.gov/pubmed/17289482	|
 |	2008	|	Domestic pig (S. domesticus)	|	liver	|	2E+00	|	-40	|	Irrelevant - no brain tissue	|	Gavish, 2008	|	https://www.ncbi.nlm.nih.gov/pubmed/18729808	|
-|	2009	|	Beetle Upis ceramboides	|	whole	|	2E-04	|	-60	|	Likely yes (adapted to hibernation)	|	Walters, 2009	|	https://www.ncbi.nlm.nih.gov/pubmed/19403530	|
+|	2009	|	Beetle Upis ceramboides	|	whole	|	2E-04	|	-60	|	Unknown	|	Walters, 2009	|	https://www.ncbi.nlm.nih.gov/pubmed/19403530	|
 |	2012	|	Nematodes frozen for 26 years	|	whole	|	3E-07	|	-20	|	Unknown	|	Kagoshima et al, 2012	|	https://www.ncbi.nlm.nih.gov/pubmed/22987239	|
 |	2015	|	Nematode C. elegans	|	whole	|	3E-07	|	-79	|	Yes (long-term memory preserved)	|	Vita-More, Barranco, 2015	|	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4620520/	|
 |	2016	|	Human: trauma patients	|	whole	|	8E+01	|	10	|	ongoing clinical trial	|	Kutcher et al, 2016	|	https://www.ncbi.nlm.nih.gov/pubmed/26497780	|
