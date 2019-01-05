@@ -19,6 +19,18 @@ Note: we define "successful cryopreservation" as a cryopreservation, after which
 
 # The lowest successful-cryopreservation temperatures by a group (as of 2018)
 
+By neural function / behavior after defreeze:	
+
+|	function / behavior after defreeze	|	Lowest temperature (°C)	|	Details	|
+|	-------------	|	-------------	|	-------------	|
+|	brain cells are alive and healthy	|	-90	|	Culture of fetal brain cells of a brown rat (R. norvegicus)	|
+|	Metabolically and functionally active synapses	|	-79	|	sup. cervic. ganglion of a brown rat (R. norvegicus)	|
+|	Successful transplantation of the defrozen brain tissue	|	-90	|	fetal brain tissue of a brown rat (R. norvegicus)	|
+|	ECG shows no abnormalities	|	-20	|	In-vitro brain of a cat (F. catus)	|
+|	long-term memory is preserved	|	-79	|	Whole body preservation of a nematode C. elegans	|
+|	Mammals: no abnormalities in complex behavior, higher nervous activity	|	-1	|	Whole body preservation of a golden hamster (M. auratus) 	|
+|	Humans: no abnormalities in complex behavior, higher nervous activity	|	10	|	Whole body preservation of humans (trauma patients)	|
+
 By specimen (humans only):
 
 Specimen	|	Lowest temperature (°C)	|	Details
