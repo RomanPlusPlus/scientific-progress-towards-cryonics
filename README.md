@@ -131,6 +131,6 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 |	2009	|	Beetle Upis ceramboides	|	whole	|	2E-04	|	-60	|	Unknown	|	Walters, 2009	|	https://www.ncbi.nlm.nih.gov/pubmed/19403530	|
 |	2012	|	Nematodes frozen for 26 years	|	whole	|	3E-07	|	-20	|	Unknown	|	Kagoshima et al, 2012	|	https://www.ncbi.nlm.nih.gov/pubmed/22987239	|
 |	2015	|	Nematode C. elegans	|	whole	|	3E-07	|	-79	|	Yes (long-term memory preserved)	|	Vita-More, Barranco, 2015	|	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4620520/	|
-|	2016	|	Human: trauma patients	|	whole	|	8E+01	|	10	|	ongoing clinical trial	|	Kutcher et al, 2016	|	https://www.ncbi.nlm.nih.gov/pubmed/26497780	|
+|	2016	|	Human: trauma patients	|	whole	|	8E+01	|	10	|	Likely yes (ongoing clinical trial)	|	Kutcher et al, 2016	|	https://www.ncbi.nlm.nih.gov/pubmed/26497780	|
 |	2017	|	Human: Tayyab Jafar	|	whole	|	8E+01	|	21	|	Yes (no abnormalities observed)	|	Ormsby, 2017	|	https://www.thestar.com/news/insight/2017/02/19/this-queens-student-froze-to-death-on-a-kingston-pier-heres-how-he-came-back-to-life.html	|
 |	2018	|	Nematodes frozen for 30+ tsd yrs	|	whole	|	3E-07	|	-10	|	Unknown	|	Shatilovich et al, 2018	|	https://link.springer.com/article/10.1134/S0012496618030079	|
