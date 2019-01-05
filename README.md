@@ -24,12 +24,12 @@ By neural function / behavior after defreeze:
 |	function / behavior after defreeze	|	Lowest temperature (°C)	|	Details	|
 |	-------------	|	-------------	|	-------------	|
 |	brain cells are alive and healthy	|	-90	|	Culture of fetal brain cells of a brown rat (R. norvegicus)	|
-|	Metabolically and functionally active synapses	|	-79	|	sup. cervic. ganglion of a brown rat (R. norvegicus)	|
-|	Successful transplantation of the defrozen brain tissue	|	-90	|	fetal brain tissue of a brown rat (R. norvegicus)	|
-|	ECG shows no abnormalities	|	-20	|	In-vitro brain of a cat (F. catus)	|
+|	metabolically and functionally active synapses	|	-79	|	sup. cervic. ganglion of a brown rat (R. norvegicus)	|
+|	successful transplantation of the defrozen brain tissue	|	-90	|	fetal brain tissue of a brown rat (R. norvegicus)	|
+|	EEG shows no abnormalities	|	-20	|	In-vitro brain of a cat (F. catus)	|
 |	long-term memory is preserved	|	-79	|	Whole body preservation of a nematode C. elegans	|
-|	Mammals: no abnormalities in complex behavior, higher nervous activity	|	-1	|	Whole body preservation of a golden hamster (M. auratus) 	|
-|	Humans: no abnormalities in complex behavior, higher nervous activity	|	10	|	Whole body preservation of humans (trauma patients)	|
+|	mammals: no abnormalities in complex behavior, higher nervous activity	|	-1	|	Whole body preservation of a golden hamster (M. auratus) 	|
+|	humans: no abnormalities in complex behavior, higher nervous activity	|	10	|	Whole body preservation of humans (trauma patients)	|
 
 By specimen (humans only):
 
@@ -107,12 +107,12 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 |	1961	|	Guinea pig (C. porcellus)	|	uteri	|	2E-03	|	-79	|	Irrelevant - no brain tissue	|	Smith, 1961	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1963	|	Domestic dog (C. lupus f.)	|	ureters	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Barner et al, 1963	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1964	|	House mouse (M. musculus)	|	thymus glands	|	5E-05	|	-79	|	Irrelevant - no brain tissue	|	Playfair et al, 1964	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1966	|	Cat (Felis catus)	|	brain (in vitro)	|	3E-02	|	-20	|	ECG similar to the control	|	I. Suda et al, 1966	|	https://www.nature.com/articles/212268a0	|
+|	1966	|	Cat (Felis catus)	|	brain (in vitro)	|	3E-02	|	-20	|	EEG similar to the control	|	I. Suda et al, 1966	|	https://www.nature.com/articles/212268a0	|
 |	1967	|	Domestic dog (C. lupus f.)	|	small intestine	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Hailmton, Lehr, 1967	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1972	|	Mammals (Mammalia)	|	heart (fetal)	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1973	|	Domestic dog (C. lupus f.)	|	kidney	|	2E-02	|	-22	|	Irrelevant - no brain tissue	|	Dietzman et al, 1973	|	https://www.ncbi.nlm.nih.gov/pubmed/27072955	|
 |	1974	|	Mammals (Mammalia)	|	bone marrow	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1974	|	Cat (Felis catus)	|	brain (in vitro)	|	3E-02	|	-20	|	activity, but some ECG abnormalities	|	I. Suda et al, 1974	|	https://www.sciencedirect.com/science/article/pii/0006899374902637	|
+|	1974	|	Cat (Felis catus)	|	brain (in vitro)	|	3E-02	|	-20	|	activity, but some EEG abnormalities	|	I. Suda et al, 1974	|	https://www.sciencedirect.com/science/article/pii/0006899374902637	|
 |	1974	|	Mammals (Mammalia)	|	cornea	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1974	|	Mammals (Mammalia)	|	skin	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1977	|	Mammals (Mammalia)	|	embryos	|	5E-10	|	-79	|	Unknown	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
