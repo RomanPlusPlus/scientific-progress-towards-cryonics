@@ -2,7 +2,7 @@
 
 Below is a list of 70+ scientific papers that are related to cryonics. 
 
-The list is at the bottom of this page. You can also download it in [.ods](Table_Scientific_progess_towards_cryonics.ods) and [.xls](Table_Scientific_progess_towards_cryonics.xls).
+The list is at the bottom of this page. You can also download it in [.ods](Table_Scientific_progess_towards_cryonics2.ods) and [.xls](Table_Scientific_progess_towards_cryonics2.xls).
 
 Feel free to use the table and the diagrams for any purposes. Everything in this repository is released into the [Public Domain](https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics/blob/master/LICENSE).  
 
