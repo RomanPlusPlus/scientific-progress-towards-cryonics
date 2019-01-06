@@ -87,23 +87,23 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 |	1955	|	Brown rat (R. norvegicus)	|	whole	|	2E-01	|	-3	|	Unknown	|	Andjus, 1955	|	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1365903/	|
 |	1956	|	Brown rat (R. norvegicus)	|	whole	|	2E-01	|	0	|	Yes (no abnormalities observed)	|	Andjus, 1956	|	https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1959.tb49209.x	|
 |	1956	|	Golden hamster (M. auratus) 	|	whole	|	1E-01	|	-1	|	Yes (no abnormalities observed)	|	Lovelock, Smith, 1956	|	https://www.ncbi.nlm.nih.gov/pubmed/13359396	|
-|	1957	|	Mammals (Mammalia)	|	ovarian tissue	|	5E-10	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1957	|	Mammals (Mammalia)	|	ovarian tissue	|	5E-10	|	-79	|	Irrelevant - no brain tissue	|	Parkes, 1957 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1957	|	Primate: some Simiiformes	|	whole	|	4E+00	|	11	|	Yes (habits preserved, no abnormalities)	|	Niazi and Lewis, 1957	|	https://journals.lww.com/surveyanesthesiology/citation/1957/12000/profound_hypothermia_in_the_monkey_with_recovery.1.aspx	|
 |	1957	|	Brown rat (R. norvegicus)	|	sup. сervic. ganglion	|	5E-07	|	-79	|	full recovery of synaptic function	|	Pascoe, Parkes, 1957	|	https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1957.0071	|
-|	1958	|	Mammals (Mammalia)	|	renal tissue	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1958	|	Mammals (Mammalia)	|	renal tissue	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Vieuchange, 1958 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1958	|	Leisler's bat (N. leisleri)	|	whole	|	1E-02	|	-7	|	Unknown	|	Kalabukhov, 1958	|	https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1959.tb49209.x	|
-|	1959	|	Mammals (Mammalia)	|	thyroid tissue	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1959	|	Mammals (Mammalia)	|	thyroid tissue	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Parkes, 1959 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1959	|	Golden hamster (M. auratus) 	|	whole	|	1E-01	|	-5	|	Unknown	|	Andjus, 1959	|	https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1959.tb49209.x	|
 |	1959	|	European rabbit (O. cuniculus)	|	whole	|	2E+00	|	14	|	Unknown	|	Andjus, 1959	|	https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1959.tb49209.x	|
 |	1959	|	Human: brain surgery patients	|	whole	|	6E+01	|	28	|	Likely yes (a standard praxis in 2018)	|	Soleimanpour et al, 2014	|	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4166101/	|
-|	1961	|	Mammals (Mammalia)	|	adrenal cortex	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1961	|	Mammals (Mammalia)	|	epididymis	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1961	|	Mammals (Mammalia)	|	fallopian tube	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1961	|	Mammals (Mammalia)	|	hypophysis	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1961	|	Mammals (Mammalia)	|	parathyroid glands	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1961	|	Mammals (Mammalia)	|	prostate gland (ps.)	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1961	|	Mammals (Mammalia)	|	seminal vesicles	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1961	|	Mammals (Mammalia)	|	testicular tissue	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1961	|	Mammals (Mammalia)	|	adrenal cortex	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Smith, 1961 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1961	|	Mammals (Mammalia)	|	epididymis	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Smith, 1961 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1961	|	Mammals (Mammalia)	|	fallopian tube	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Smith, 1961 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1961	|	Mammals (Mammalia)	|	hypophysis	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Smith, 1961 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1961	|	Mammals (Mammalia)	|	parathyroid glands	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Russell et al, 1961 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1961	|	Mammals (Mammalia)	|	prostate gland (ps.)	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Smith, 1961 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1961	|	Mammals (Mammalia)	|	seminal vesicles	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Smith, 1961 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1961	|	Mammals (Mammalia)	|	testicular tissue	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Smith, 1961 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1961	|	Golden hamster (M. auratus) 	|	heart	|	1E-03	|	-20	|	Irrelevant - no brain tissue	|	Smith, 1961	|	https://www.cabdirect.org/cabdirect/abstract/19620102256	|
 |	1961	|	European rabbit (O. cuniculus)	|	heart	|	4E-02	|	-21	|	Irrelevant - no brain tissue	|	Connaughton, Lewis, 1961	|	https://www.ncbi.nlm.nih.gov/pubmed/27072955	|
 |	1961	|	Guinea pig (C. porcellus)	|	uteri	|	2E-03	|	-79	|	Irrelevant - no brain tissue	|	Smith, 1961	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
@@ -111,14 +111,14 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 |	1964	|	House mouse (M. musculus)	|	thymus glands	|	5E-05	|	-79	|	Irrelevant - no brain tissue	|	Playfair et al, 1964	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1966	|	Cat (Felis catus)	|	brain (in vitro)	|	3E-02	|	-20	|	EEG similar to the control	|	I. Suda et al, 1966	|	https://www.nature.com/articles/212268a0	|
 |	1967	|	Domestic dog (C. lupus f.)	|	small intestine	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Hailmton, Lehr, 1967	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1972	|	Mammals (Mammalia)	|	heart (fetal)	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1972	|	Mammals (Mammalia)	|	heart (fetal)	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	David, 1972 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1973	|	Domestic dog (C. lupus f.)	|	kidney	|	2E-02	|	-22	|	Irrelevant - no brain tissue	|	Dietzman et al, 1973	|	https://www.ncbi.nlm.nih.gov/pubmed/27072955	|
-|	1974	|	Mammals (Mammalia)	|	bone marrow	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1974	|	Mammals (Mammalia)	|	bone marrow	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Karow et al, 1974 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1974	|	Cat (Felis catus)	|	brain (in vitro)	|	3E-02	|	-20	|	activity, but some EEG abnormalities	|	I. Suda et al, 1974	|	https://www.sciencedirect.com/science/article/pii/0006899374902637	|
-|	1974	|	Mammals (Mammalia)	|	cornea	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1974	|	Mammals (Mammalia)	|	skin	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1977	|	Mammals (Mammalia)	|	embryos	|	5E-10	|	-79	|	Unknown	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1977	|	Brown rat (R. norvegicus)	|	pancreases (fetal)	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Fahy, 1980	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1974	|	Mammals (Mammalia)	|	cornea	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Karow et al, 1974 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1950	|	Mammals (Mammalia)	|	skin	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Kreyberg, Hanssen, 1950 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1977	|	Mammals (Mammalia)	|	embryos	|	5E-10	|	-79	|	Unknown	|	Elliot, Whelan, 1977 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
+|	1977	|	Brown rat (R. norvegicus)	|	pancreases (fetal)	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Kemp et al, 1977 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1980	|	Brown rat (R. norvegicus)	|	fetal brain tissue	|	<0,1	|	-90	|	Successful transplantation into a rat brain	|	Houle, Das, 1980	|	https://www.sciencedirect.com/science/article/pii/0006899380909099	|
 |	1983	|	Human: unnamed donors	|	brain tissue	|	<0,1	|	-70	|	Metabolically, functionally active synapses	|	Hardy et al, 1983	|	https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1471-4159.1983.tb08024.x	|
 |	1984	|	Salamander S. keyserlingii	|	whole	|	1E-02	|	-32	|	Unknown	|	Berman et al, 1984	|	https://eurekamag.com/research/006/919/006919627.php	|
