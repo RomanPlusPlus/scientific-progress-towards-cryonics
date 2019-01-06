@@ -148,3 +148,6 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 |	2016	|	Human: trauma patients	|	whole	|	8E+01	|	10	|	Likely yes (ongoing clinical trial)	|	Kutcher et al, 2016	|	https://www.ncbi.nlm.nih.gov/pubmed/26497780	|
 |	2017	|	Human: Tayyab Jafar	|	whole	|	8E+01	|	21	|	Yes (no abnormalities observed)	|	Ormsby, 2017	|	https://www.thestar.com/news/insight/2017/02/19/this-queens-student-froze-to-death-on-a-kingston-pier-heres-how-he-came-back-to-life.html	|
 |	2018	|	Nematodes frozen for 30+ tsd yrs	|	whole	|	3E-07	|	-10	|	Unknown	|	Shatilovich et al, 2018	|	https://link.springer.com/article/10.1134/S0012496618030079	|
+
+Note: this repository is a work in progress. Feedback is highly appreciated!
+Please feel free to edit it directly (you need to sign up in github to do it), or suggest edits at [New_Cryonet]( https://groups.yahoo.com/neo/groups/New_Cryonet/info) or [reddit.com/r/cryonics](https://www.reddit.com/r/cryonics/comments/acytx5/list_of_70_scientific_papers_related_to_cryonics/)
