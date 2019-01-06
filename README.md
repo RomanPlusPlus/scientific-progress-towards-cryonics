@@ -79,6 +79,7 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 |	1949	|	Human: unnamed donors	|	red blood cells	|	9E-14	|	-79	|	Irrelevant - no brain tissue	|	Smith et al, 1949	|	https://www.nature.com/articles/164666a0	|
 |	1949	|	Human: unnamed donors	|	spermatozoa	|	3E-15	|	-79	|	Irrelevant - no brain tissue	|	Polge et al, 1949	|	https://www.ncbi.nlm.nih.gov/pubmed/18143360?dopt=Abstract	|
 |	1950	|	Tardigrades (Tardigrada)	|	whole	|	2E-11	|	-272	|	Unknown	|	Becquerel, 1950	|	https://www.nature.com/articles/ncomms12808	|
+|	1950	|	Mammals (Mammalia)	|	skin	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Kreyberg, Hanssen, 1950 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1951	|	Human: unnamed 23yo woman 	|	whole	|	6E+01	|	16	|	Yes (no abnormalities observed)	|	Laufmann, 1951	|	https://jamanetwork.com/journals/jama/article-abstract/312807	|
 |	1951	|	Brown rat (R. norvegicus)	|	whole	|	2E-01	|	0	|	Unknown	|	Andjus, 1951	|	https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1959.tb49209.x	|
 |	1952	|	European rabbit (O. cuniculus)	|	skin	|	<0,1	|	-150	|	Irrelevant - no brain tissue	|	Billingham, Medawar, 1952	|	http://jeb.biologists.org/content/29/3/454.short	|
@@ -116,7 +117,6 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 |	1974	|	Mammals (Mammalia)	|	bone marrow	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Karow et al, 1974 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1974	|	Cat (Felis catus)	|	brain (in vitro)	|	3E-02	|	-20	|	activity, but some EEG abnormalities	|	I. Suda et al, 1974	|	https://www.sciencedirect.com/science/article/pii/0006899374902637	|
 |	1974	|	Mammals (Mammalia)	|	cornea	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Karow et al, 1974 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
-|	1950	|	Mammals (Mammalia)	|	skin	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Kreyberg, Hanssen, 1950 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1977	|	Mammals (Mammalia)	|	embryos	|	5E-10	|	-79	|	Unknown	|	Elliot, Whelan, 1977 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1977	|	Brown rat (R. norvegicus)	|	pancreases (fetal)	|	<0,1	|	-79	|	Irrelevant - no brain tissue	|	Kemp et al, 1977 (via Fahy, 1980)	|	https://www.sciencedirect.com/science/article/pii/0011224080900449	|
 |	1980	|	Brown rat (R. norvegicus)	|	fetal brain tissue	|	<0,1	|	-90	|	Successful transplantation into a rat brain	|	Houle, Das, 1980	|	https://www.sciencedirect.com/science/article/pii/0006899380909099	|
