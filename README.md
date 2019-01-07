@@ -148,7 +148,7 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 |	2016	|	Human: trauma patients	|	whole	|	8E+01	|	10	|	Likely yes (ongoing clinical trial)	|	Kutcher et al, 2016	|	https://www.ncbi.nlm.nih.gov/pubmed/26497780	|
 |	2017	|	Human: Tayyab Jafar	|	whole	|	8E+01	|	21	|	Yes (no abnormalities observed)	|	Ormsby, 2017	|	https://www.thestar.com/news/insight/2017/02/19/this-queens-student-froze-to-death-on-a-kingston-pier-heres-how-he-came-back-to-life.html	|
 |	2018	|	Nematodes frozen for 30+ tsd yrs	|	whole	|	3E-07	|	-10	|	Unknown	|	Shatilovich et al, 2018	|	https://link.springer.com/article/10.1134/S0012496618030079	|
-| 2018	| Human: unnamed donors	| liver	| 2E+00	| 5	| Irrelevant - no brain tissue	| Buchholz et al, 2018 |	https://journals.lww.com/transplantjournal/Abstract/2018/07001 |
+| 2018	| Human: unnamed donors	| liver	| 2E+00	| 5	| Irrelevant - no brain tissue	| Buchholz et al, 2018 |	https://journals.lww.com/transplantjournal/Abstract/2018/07001/Extending_the_Human_Liver_Preservation_Time_for.637.aspx |
 
 
 Note 1: For the majority of the papers in the list, abstracts or even full texts are available on the Web. The full texts are usually behind paywalls, but many of them are available for free on [LibGen](https://en.wikipedia.org/wiki/Library_Genesis). But check if LibGen is illegal in your country.
