@@ -17,7 +17,6 @@ You can cite this repository as follows:
 ![StateOfCryonics2018.png](StateOfCryonics2018.png)
 
 As the papers indicate, it's easier to cryopreserve smaller organisms than larger ones: 
-
 ![biggestMass2.png](biggestMass2.png)
 ![TemperatureVSmass.png](TemperatureVSmass2.png)
 
