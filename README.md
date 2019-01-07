@@ -160,3 +160,6 @@ Note 1: For the majority of the papers in the list, abstracts or even full texts
 Note 2: this repository is a work in progress. Feedback is highly appreciated!
 
 Please feel free to edit it directly (you need to sign up in github to do it), suggest edits using the ["issue"]( https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics/issues) feature, or suggest edits at [New_Cryonet]( https://groups.yahoo.com/neo/groups/New_Cryonet/info) or [reddit.com/r/cryonics](https://www.reddit.com/r/cryonics/comments/acytx5/list_of_70_scientific_papers_related_to_cryonics/)
+
+You can also subcribe to changes using [RSS](https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics/commits/master.atom).
+
