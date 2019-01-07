@@ -12,7 +12,9 @@ You can cite this repository as follows:
 
 `SPTCR: curated repository of scientific papers on cryonics, (2018), GitHub repository, https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics `
 
-# Some stats    
+# Stats    
+
+![StateOfCryonics2018.png](StateOfCryonics2018.png)
 
 As the papers indicate, it's easier to cryopreserve smaller organisms than larger ones: 
 
