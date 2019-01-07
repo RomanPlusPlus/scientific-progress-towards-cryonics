@@ -15,7 +15,7 @@ You can cite this repository as follows:
 As the papers indicate, it's easier to cryopreserve smaller organisms than larger ones: 
 
 ![biggestMass2.png](biggestMass2.png)
-![TemperatureVSmass.png](TemperatureVSmass.png)
+![TemperatureVSmass.png](TemperatureVSmass2.png)
 
 Note: we define "successful cryopreservation" as a cryopreservation, after which a reanimation was achieved. If it's a whole body preservation, the organism should be brought back to life and be able to survive for at least 1 week. If it's an organ, it should be able to perform its main function after the defreeze (ideally, confirmed by a successful transplantation). If it's cells, they should be alive after the defreeze, and show at least some indication that they're still able to perform their main functions.  
 
