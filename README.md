@@ -40,6 +40,7 @@ Specimen	|	Lowest temperature (°C)	|	Details
 cells (any type)	|	-196	|	oocytes
 brain cells	|	-80	|	from a 9-14 week abortus
 brain tissue	|	-70	|	from adults
+organs (adult) |	5 |	The preservation standard for donor livers, as of 2018
 embryos	|	-196	|	developed into healthy humans
 whole body: children (accidental hibernation)	|	16	|	human: Erika Nordby
 whole body: adults (accidental hibernation)	|	14	|	human: Anna Bågenholm
