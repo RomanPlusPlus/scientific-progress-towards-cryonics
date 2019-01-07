@@ -1,6 +1,6 @@
-# Scientific progress towards cryonics
+# SPTC: curated repository of scientific papers on cryonics
 
-Below is a list of 70+ scientific papers that are related to cryonics. 
+This repository contains a list of 70+ scientific papers on cryonics, complete with short summaries of their findings. 
 
 The list is at the bottom of this page. You can also download it in [.ods](Table_Scientific_progess_towards_cryonics3.ods) and [.xls](Table_Scientific_progess_towards_cryonics3.xls).
 
@@ -8,7 +8,9 @@ Feel free to use the table and the diagrams for any purposes. Everything in this
 
 You can cite this repository as follows:
 
-`R.Plus, Scientific progress towards cryonics, (2018), GitHub repository, https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics `
+`[SPTC, 2018]`
+
+`SPTC: curated repository of scientific papers on cryonics, (2018), GitHub repository, https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics `
 
 # Some stats    
 
