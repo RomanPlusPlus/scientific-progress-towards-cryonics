@@ -1,4 +1,4 @@
-# SPTC: curated repository of scientific papers on cryonics
+# SPTCR: curated repository of scientific papers on cryonics
 
 This repository contains a list of 70+ scientific papers on cryonics, complete with short summaries of their findings. 
 
@@ -8,9 +8,9 @@ Feel free to use the table and the diagrams for any purposes. Everything in this
 
 You can cite this repository as follows:
 
-`[SPTC, 2018]`
+`[SPTCR, 2018]`
 
-`SPTC: curated repository of scientific papers on cryonics, (2018), GitHub repository, https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics `
+`SPTCR: curated repository of scientific papers on cryonics, (2018), GitHub repository, https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics `
 
 # Some stats    
 
