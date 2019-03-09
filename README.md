@@ -155,11 +155,18 @@ Mass, kg	|	Lowest temperature (°C)	|	Species (where applicable)	|
 | 2018	| Human: unnamed donors	| liver	| 2E+00	| 5	| Irrelevant - no brain tissue	| Buchholz et al, 2018 |	https://journals.lww.com/transplantjournal/Abstract/2018/07001/Extending_the_Human_Liver_Preservation_Time_for.637.aspx |
 
 
-Note 1: For the majority of the papers in the list, abstracts or even full texts are available on the Web. The full texts are usually behind paywalls, but many of them are available for free on [LibGen](https://en.wikipedia.org/wiki/Library_Genesis). But check if LibGen is illegal in your country.
+Note: For the majority of the papers in the list, abstracts or even full texts are available on the Web. The full texts are usually behind paywalls, but many of them are available for free on [LibGen](https://en.wikipedia.org/wiki/Library_Genesis). But check if LibGen is illegal in your country.
 
-Note 2: this repository is a work in progress. Feedback is highly appreciated!
+# Feedback
+
+This repository is a work in progress. Feedback is highly appreciated!
 
 Please feel free to edit it directly (you need to sign up in github to do it), suggest edits using the ["issue"]( https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics/issues) feature, or suggest edits at [New_Cryonet]( https://groups.yahoo.com/neo/groups/New_Cryonet/info) or [reddit.com/r/cryonics](https://www.reddit.com/r/cryonics/comments/acytx5/list_of_70_scientific_papers_related_to_cryonics/)
 
 You can also subcribe to changes using [RSS](https://github.com/RomanPlusPlus/scientific-progress-towards-cryonics/commits/master.atom).
 
+In february 2019, a prominent figure in the cryonics movement - Mike Darwin - kindly provided some lenghty feedback on the content of this repository. It's available under [this link](https://drive.google.com/file/d/1eGVzwmr1TDgN9HnDfTZNnzP98-hipHoc/edit). There is a lot of relevant info in it that we plan to add to this repository. 
+
+# See also
+
+[Timeline of brain preservation](https://timelines.issarice.com/wiki/Timeline_of_brain_preservation) - a very detailed timeline of the history of cryonics
